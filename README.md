@@ -33,5 +33,6 @@ What I learn:
   
 - $top - use of CPU
 - $df -h - use of space
+- 
 
-- need to charge battery
+- 
