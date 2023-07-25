@@ -33,6 +33,6 @@ What I learn:
   
 - $top - use of CPU
 - $df -h - use of space
-- 
+  
 ![ssh service status](/images/ssh_status.png "Service status")
 - systemctl status mytest - to check status of my service
