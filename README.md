@@ -13,6 +13,7 @@ Difficulties:
 
 What I learn:
 - connect to Rasberry - ssh [user]@ip
+![ssh_Copy_file](/images/ssh_Copy_file.png "Copy file")
 - transfer file scp [file] [user]@ip:~/
 - $mv - for moving file
 - $mkdir - for creating directory
