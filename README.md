@@ -9,7 +9,7 @@ Difficulties:
   + (manage to install Ubuntu-server but have problems running spring boot applications - I was running out of space - $sudo apt clean fix the issue temporarly)
 - My jar have't been correctly generated - (VS Code didn't show any error - I was using arrow on the left menu "Export jar..." that was a mistake, wasted a lot of time because of that )
 - ./mvnw package - that the correct way of creating jar foe me - (./mvnw package -DskipTests - only if because I didn't look at tests)
--  
+  
 
 What I learn:
 - connect to Rasberry - ssh [user]@ip
