@@ -3,6 +3,7 @@
 What did I learn using Raspberry Pi zero 2 W - (Not sure how I want to form that yet also all is RAW with all kinds of errors)
 
 Difficulties:
+- skill issue xD
 - I didn’t have a mouse or keyboard since the Raspberry Pi Zero 2 W has only one USB OTG port. However, this wasn’t a big problem since I only needed it for Ubuntu Server.
   + it has Bluetooth with RaspberryOS installed. (I was able to log in through SSH and connect my keyboard with trackpad by switching to bluetoothctl and running ‘scan on’ followed by ‘connect [mac address]’.)
 - I have only two working micro SD cards - one of them 4GB other 16GB (on 16GB I have installed RaspberryOS)
