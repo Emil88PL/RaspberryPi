@@ -9,7 +9,7 @@ Difficulties:
 - I have only two working micro SD cards - one of them 4GB other 16GB (on 16GB I have installed RaspberryOS)
   + (manage to install Ubuntu-server but have problems running spring boot applications - I was running out of space - $sudo apt clean fix the issue temporarly)
 - My jar have't been correctly generated - (VS Code didn't show any error - I was using arrow on the left menu "Export jar..." that was a mistake, wasted a lot of time because of that )
-- ./mvnw package - that the correct way of creating jar foe me - (./mvnw package -DskipTests - only if because I didn't look at tests)
+- ./mvnw package - that the correct way of creating jar for me - (./mvnw package -DskipTests - only if because I didn't look at tests)
 
   
 
