@@ -42,6 +42,10 @@ What I learn:
 
 - libcamera-vid -t 0 --width 1920 --height 1080 --inline --listen --bitrate 2000000 -o tcp://0.0.0.0:8888
 
+###### This simply can't look any better 🤣
+![image](https://github.com/user-attachments/assets/bffe53bc-054e-4b39-be63-8e6eee0acd8b)
+
+
  - watch -n 1 vcgencmd measure_temp
 
  ![image](https://github.com/user-attachments/assets/5d3fd677-1c98-45a5-976a-e7e133f46314)
