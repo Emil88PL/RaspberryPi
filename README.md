@@ -39,3 +39,9 @@ What I learn:
   
 ![ssh service status](/images/ssh_status.png "Service status")
 - systemctl status mytest - to check status of my service
+
+- libcamera-vid -t 0 --width 1920 --height 1080 --inline --listen --bitrate 2000000 -o tcp://0.0.0.0:8888
+
+ - watch -n 1 vcgencmd measure_temp
+
+ ![image](https://github.com/user-attachments/assets/5d3fd677-1c98-45a5-976a-e7e133f46314)
