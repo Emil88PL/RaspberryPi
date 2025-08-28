@@ -41,6 +41,7 @@ What I learn:
 - systemctl status mytest - to check status of my service
 
 - libcamera-vid -t 0 --width 1920 --height 1080 --inline --listen --bitrate 2000000 -o tcp://0.0.0.0:8888
+- added to crontab -e @reboot nohup java org.example.EchoServer & (to launch alongside the camera module)
 
 ###### This simply can't look any better 🤣
 ![image](https://github.com/user-attachments/assets/bffe53bc-054e-4b39-be63-8e6eee0acd8b)
