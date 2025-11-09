@@ -52,4 +52,5 @@ What I learn:
  ![image](https://github.com/user-attachments/assets/5d3fd677-1c98-45a5-976a-e7e133f46314)
 
 - Sharing fans!
-- ![pi5](/images/pi5.jpeg "Pi5")
+
+![pi5](/images/pi5.jpeg "Pi5")
