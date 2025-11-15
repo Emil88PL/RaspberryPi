@@ -11,8 +11,6 @@ Difficulties:
 - My jar have't been correctly generated - (VS Code didn't show any error - I was using arrow on the left menu "Export jar..." that was a mistake, wasted a lot of time because of that )
 - ./mvnw package - that the correct way of creating jar for me - (./mvnw package -DskipTests - only if because I didn't look at tests)
 
-  
-
 What I learn:
 - connect to Rasberry - ssh [user]@ip
 ![ssh_Copy_file](/images/ssh_Copy_file.png "Copy file")
